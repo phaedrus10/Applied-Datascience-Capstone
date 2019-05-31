@@ -1,2 +1,2 @@
 # Applied-Datascience-Capstone
-Coursera's IBM Applied Data Science Capstone
+This repository is for Coursera's IBM Applied Data Science Capstone 
