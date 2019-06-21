@@ -1,0 +1,3 @@
+The data contained over 100 columns of attributes (i.e. features) and each row is a property transaction that occurred at a specific date. The relevant columns that were used for this project included neighborhood name, building class category (i.e. property type), sale price, sale date, gross area, land area. 
+
+The data was sorted and grouped into a MultiIndex DataFrame, where the hierarchical index followed Neighborhood -> Building Class Category (i.e. property type) -> Feature (i.e. sale price, gross area, land area, price per square foot) -> Attribute (i.e sum, mean, count)
