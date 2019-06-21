@@ -1,0 +1,5 @@
+This project is about data cleaning, data manipulation and data visualization. I wanted to analyze, visually, the evolution of property prices by class of property in the various neighborhoods of Brooklyn, NYC.
+
+This project DOES NOT use Foursquare location data. Instead, the dataset of property transactions in the borough of Brooklyn, NY was obtained from the New York City government's finance department's website. 
+
+The objective was to provide a platform, via Folium maps, to identify spatial and temporal trends in property prices in Brooklyn, New York. For example, which neighborhoods experienced the largest changes in property prices over time, and when did this happen.
